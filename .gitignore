@@ -12,3 +12,4 @@ _deps
 CMakeUserPresets.json
 .DS_Store
 my_project
+.ccls-cache
