@@ -11,7 +11,6 @@ int main() {
   f2.Add(ts);
 
   Fahrzeug pt("Porsche", "Taycan", "M-5678", 400, 90);
-  pt.Print();
   f1.Add(pt);
   f2.Add(pt);
 

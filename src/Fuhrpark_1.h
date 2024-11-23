@@ -10,7 +10,7 @@ public:
 
 private:
   static const size_t Max_Elems = 100;
-  size_t anzElem;
+  size_t anzElem = 0;
   Fahrzeug *pFuhrpark[Max_Elems];
 };
 

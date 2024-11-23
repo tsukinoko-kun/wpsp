@@ -19,4 +19,4 @@ Fahrzeug::Fahrzeug(std::string hersteller, std::string modell,
   this->ladungInProzent = ladungInProzent;
 }
 
-Fahrzeug::Fahrzeug() {}
+Fahrzeug::Fahrzeug() = default;

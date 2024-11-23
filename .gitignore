@@ -13,3 +13,11 @@ CMakeUserPresets.json
 .DS_Store
 my_project
 .ccls-cache
+*.out
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.zip
